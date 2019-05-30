@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Academic</description>
+    <title>Posts on Pengpeng Liu</title>
+    <link>https://liuppboy.github.io/post/</link>
+    <description>Recent content in Posts on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>@{year} Pengpeng Liu</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuppboy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://liuppboy.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>https://liuppboy.github.io/post/jupyter/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://liuppboy.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://liuppboy.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses on Academic</title>
-    <link>/courses/</link>
-    <description>Recent content in Courses on Academic</description>
+    <title>Courses on Pengpeng Liu</title>
+    <link>https://liuppboy.github.io/courses/</link>
+    <description>Recent content in Courses on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>@{year} Pengpeng Liu</copyright>
     
-	<atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuppboy.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

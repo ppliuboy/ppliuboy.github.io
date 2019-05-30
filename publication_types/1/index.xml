@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Academic</title>
-    <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Academic</description>
+    <title>1 on Pengpeng Liu</title>
+    <link>https://liuppboy.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>@{year} Pengpeng Liu</copyright>
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuppboy.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://liuppboy.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://liuppboy.github.io/publication/conference-paper/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     

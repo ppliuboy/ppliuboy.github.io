@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Academic</title>
-    <link>/publication_types/3/</link>
-    <description>Recent content in 3 on Academic</description>
+    <title>3 on Pengpeng Liu</title>
+    <link>https://liuppboy.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>@{year} Pengpeng Liu</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuppboy.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
+      <link>https://liuppboy.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/preprint/</guid>
+      <guid>https://liuppboy.github.io/publication/preprint/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     

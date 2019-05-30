@@ -1,49 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <title>Tags on Pengpeng Liu</title>
+    <link>https://liuppboy.github.io/tags/</link>
+    <description>Recent content in Tags on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>@{year} Pengpeng Liu</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuppboy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>https://liuppboy.github.io/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>https://liuppboy.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://liuppboy.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://liuppboy.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>https://liuppboy.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>https://liuppboy.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://liuppboy.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://liuppboy.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
