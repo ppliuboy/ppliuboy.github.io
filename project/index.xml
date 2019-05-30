@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>An example of using the in-built project page.</description>
+    </item>
+    
+  </channel>
+</rss>
