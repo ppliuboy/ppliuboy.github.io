@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@{year} Pengpeng Liu</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://liuppboy.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://liuppboy.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>SelFlow: Self-Supervised Learning of Optical Flow</title>
+      <link>https://liuppboy.github.io/publication/conference-paper/selflow/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/publication/conference-paper/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>https://liuppboy.github.io/publication/conference-paper/selflow/</guid>
+      <description>&lt;strong&gt; Pengpeng Liu &lt;/strong&gt;, Michael R. Lyu, Irwin King, Jia Xu &lt;br&gt; &lt;em&gt;CVPR&lt;/em&gt; 2019 (&lt;strong&gt;Oral Presentation&lt;/strong&gt;)</description>
+    </item>
+    
+    <item>
+      <title>DDFlow: Learning Optical Flow with Unlabeled Data Distillation</title>
+      <link>https://liuppboy.github.io/publication/conference-paper/ddflow/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://liuppboy.github.io/publication/conference-paper/ddflow/</guid>
+      <description>&lt;strong&gt; Pengpeng Liu &lt;/strong&gt;, Irwin King, Michael R. Lyu, Jia Xu &lt;br&gt; &lt;em&gt;AAAI&lt;/em&gt; 2019 (&lt;strong&gt;Oral Presentation&lt;/strong&gt;)</description>
     </item>
     
   </channel>
