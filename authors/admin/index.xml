@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pengpeng Liu</title>
-    <link>https://liuppboy.github.io/authors/admin/</link>
+    <link>https://ppliuboy.github.io/authors/admin/</link>
     <description>Recent content on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@{year} Pengpeng Liu</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://liuppboy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ppliuboy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://liuppboy.github.io/post/jupyter/</link>
+      <link>https://ppliuboy.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/post/jupyter/</guid>
+      <guid>https://ppliuboy.github.io/post/jupyter/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://liuppboy.github.io/post/getting-started/</link>
+      <link>https://ppliuboy.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/post/getting-started/</guid>
+      <guid>https://ppliuboy.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://liuppboy.github.io/authors/admin/</link>
+      <link>https://ppliuboy.github.io/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/authors/admin/</guid>
+      <guid>https://ppliuboy.github.io/authors/admin/</guid>
       <description>I am currently a Ph.D. student in Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Michael R. Lyu and Prof. Irwin King. Before that, I got the B.Eng. degree in the Department of Electronic Engineering, Tsinghua University. My research interests include computer vision, deep learning and machine learning.</description>
     </item>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Pengpeng Liu</title>
-    <link>https://liuppboy.github.io/publication/</link>
+    <link>https://ppliuboy.github.io/publication/</link>
     <description>Recent content in Publications on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@{year} Pengpeng Liu</copyright>
     <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://liuppboy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ppliuboy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SelFlow: Self-Supervised Learning of Optical Flow</title>
-      <link>https://liuppboy.github.io/publication/conference-paper/selflow/</link>
+      <link>https://ppliuboy.github.io/publication/conference-paper/selflow/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/publication/conference-paper/selflow/</guid>
+      <guid>https://ppliuboy.github.io/publication/conference-paper/selflow/</guid>
       <description>&lt;strong&gt; Pengpeng Liu &lt;/strong&gt;, Michael R. Lyu, Irwin King, Jia Xu &lt;br&gt; &lt;em&gt;CVPR&lt;/em&gt; 2019 (&lt;strong&gt;Oral Presentation&lt;/strong&gt;)</description>
     </item>
     
     <item>
       <title>DDFlow: Learning Optical Flow with Unlabeled Data Distillation</title>
-      <link>https://liuppboy.github.io/publication/conference-paper/ddflow/</link>
+      <link>https://ppliuboy.github.io/publication/conference-paper/ddflow/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/publication/conference-paper/ddflow/</guid>
+      <guid>https://ppliuboy.github.io/publication/conference-paper/ddflow/</guid>
       <description>&lt;strong&gt; Pengpeng Liu &lt;/strong&gt;, Irwin King, Michael R. Lyu, Jia Xu &lt;br&gt; &lt;em&gt;AAAI&lt;/em&gt; 2019 (&lt;strong&gt;Oral Presentation&lt;/strong&gt;)</description>
     </item>
     
     <item>
       <title>Semantically Consistent Image Completion with Fine-grained Details</title>
-      <link>https://liuppboy.github.io/publication/preprint/</link>
+      <link>https://ppliuboy.github.io/publication/preprint/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://liuppboy.github.io/publication/preprint/</guid>
+      <guid>https://ppliuboy.github.io/publication/preprint/</guid>
       <description>&lt;strong&gt; Pengpeng Liu &lt;/strong&gt;, Xiaojuan Qi, Pinjia He, Yikang Li, Michael R. Lyu, Irwin King &lt;br&gt; &lt;em&gt;arXiv&lt;/em&gt; 2017</description>
     </item>
     

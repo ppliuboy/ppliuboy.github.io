@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pengpeng Liu</title>
-    <link>https://liuppboy.github.io/categories/</link>
+    <link>https://ppliuboy.github.io/categories/</link>
     <description>Recent content in Categories on Pengpeng Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@{year} Pengpeng Liu</copyright>
     
-	<atom:link href="https://liuppboy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ppliuboy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
