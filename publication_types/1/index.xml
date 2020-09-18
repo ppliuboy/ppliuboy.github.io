@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@{year} Pengpeng Liu</copyright>
-    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ppliuboy.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning 3D Face Reconstruction with a Pose Guidance Network</title>
+      <link>https://ppliuboy.github.io/publication/conference-paper/face3d/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ppliuboy.github.io/publication/conference-paper/face3d/</guid>
+      <description>&lt;strong&gt; Pengpeng Liu &lt;/strong&gt;, Xintong Han, Michael R. Lyu, Irwin King, Jia Xu &lt;br&gt; &lt;em&gt;ACCV&lt;/em&gt; 2020 (&lt;strong&gt;Oral Presentation&lt;/strong&gt;)</description>
+    </item>
     
     <item>
       <title>Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching</title>
